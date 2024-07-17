@@ -1,4 +1,7 @@
 #importing libraries
 
 #essentials
-important pyplot as py
+important numpy as py
+import pandas as pd
+import datetime
+import random
